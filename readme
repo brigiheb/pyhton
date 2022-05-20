@@ -1,0 +1,5 @@
+# to test in postman
+http://localhost:5000/result
+body = {
+	"file_path":"xxxx.pdf"
+}
